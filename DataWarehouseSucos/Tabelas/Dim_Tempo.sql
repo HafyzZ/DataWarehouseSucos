@@ -1,0 +1,4 @@
+﻿CREATE TABLE [dbo].[Dim_Tempo]
+(
+	[Id] INT NOT NULL PRIMARY KEY
+)
